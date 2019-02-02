@@ -1,0 +1,369 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+nav {
+background-image: url('../imgs/nav.svg');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center bottom;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #657783;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+  
+}
+
+.navbar-light .navbar-brand {
+    color: #3480E3;
+    font-family: 'Roboto', sans-serif;
+
+font-size: 25px;
+}
+
+.navbar-light .navbar-brand:hover {
+    color: #3480E3;
+
+}
+
+.login {
+    margin-left: 10px;
+}
+
+.register {
+    background: #E53167;
+    border-radius: 1000px;
+    margin-left: 5px;
+    text-align: center;
+    width: 100.24px;
+    font-family: 'Courgette', cursive !important;
+    height: 35.2px;
+}
+
+.register .navbar-light .navbar-nav .nav-link {
+    color: #FFF !important;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    padding: 15px;
+}
+
+.navbar-light .navbar-toggler {
+    border: 0;
+}
+
+.navbar-light .navbar-toggler:focus {
+    border: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../imgs/header.svg');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center bottom;
+
+}
+
+.header h1 {
+    text-align: left;
+    color: #222529;
+    font-size: 29px;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 15px;
+}
+
+.header p {
+    text-align: left;
+    color: #657783;
+    font-size: 13px;
+    max-width: 400px;
+    font-family: 'Lato', sans-serif;
+margin-bottom: 15px;
+}
+
+.header img {
+    position: relative;
+    top: -55px;
+    width: 400px;
+}
+
+.header .butt {
+    text-align: left;
+}
+
+.header .butt button {
+    background: #E53167;
+    border-radius: 1000px;
+    
+    text-align: center;
+    border: 0px;
+    width: 80.24px;
+    height: 35.2px;
+    color: #FFF;    
+    font-family: 'Courgette', cursive;
+    font-size: 14px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+    background-image: url('../imgs/cardheader.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left bottom ; 
+}
+
+.cards .card1 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-image: url('../imgs/card1.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right ; 
+}
+
+.cards .card2 {
+    background-image: url('../imgs/card2.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center; 
+    padding-top: 40px;
+}
+
+.cards .card2 .card {
+    float: left;
+}
+
+.cards .card1 .card {
+    float: right;
+}
+
+.cards .card {
+    display: inline-block;
+    margin-bottom: 20px;
+    text-align:center;
+}
+
+
+.cards .card img {
+    padding: 35px;
+    padding-bottom: 0;
+    width: 300px;
+    height: 200px;
+}
+
+
+.cards .card h5 {
+    text-align: justify;
+    color: #223242;
+}
+
+.cards .card p{
+    color: #657783;
+    font-size: 14px;
+    text-align: justify
+}
+
+.cards .card1 {
+    margin-right: 30px;
+}
+
+.cards .card2 {
+    margin-left: 30px;
+}
+
+.cards .card .mylink {
+    text-align: left;
+}
+
+.cards .card .mylink a {
+    background: transparent;
+    color: #E53167;
+    border: 0;
+    padding: 0;
+    margin: 0;
+    font-size: 13px;
+}
+
+.cards .card .mylink a i {
+    margin-left: 3px;
+    position: relative;
+    top: 1px;
+    
+}
+
+.cards .card .mylink a:hover{ 
+    text-decoration: none;
+}
+
+.acts{
+    background-image: url('../imgs/acback.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left center; 
+}
+
+.acts h1 {
+    text-align: left;
+    color: #222529;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 15px;
+    font-size: 20px;
+    max-width: 400px;
+}
+
+.acts p {
+    text-align: left;
+    color: #657783;
+    font-size: 13px;
+    max-width: 400px;
+    font-family: 'Lato', sans-serif;
+margin-bottom: 15px;
+}
+
+.acts img {
+    width: 350px;
+}
+
+.acts .but {
+    text-align: left;
+}
+
+.acts .but button {
+    background: #E53167;
+    border-radius: 1000px;
+    margin-left: 5px;
+    text-align: center;
+    border: 0px;
+    width: 80.24px;
+    height: 35.2px;
+    color: #FFF;    
+    font-family: 'Courgette', cursive;
+    font-size: 14px;
+}
+
+.acts .card2,.acts .card1 {
+    float: right;
+    direction: rtl;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.acts .card1  {
+    float: left;
+    direction: rtl;
+}
+
+.acts .row {
+    margin-bottom: 40px;
+}
+
+.course {
+    margin-top: 50px;
+    background-image: url('../imgs/course.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left center; 
+    margin-bottom: 50px;
+}
+
+.course h1 {
+    text-align: left;
+    color: #222529;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 15px;
+    font-size: 20px;
+    max-width: 400px;
+}
+
+.course p {
+    text-align: left;
+    color: #657783;
+    font-size: 13px;
+    max-width: 400px;
+    font-family: 'Lato', sans-serif;
+margin-bottom: 15px;
+}
+
+.course img {
+    width: 350px;
+}
+
+.course .but {
+    text-align: left;
+}
+
+.course .but button {
+    background: #E53167;
+    border-radius: 1000px;
+    margin-left: 5px;
+    text-align: center;
+    border: 0px;
+    width: 80.24px;
+    height: 35.2px;
+    color: #FFF;    
+    font-family: 'Courgette', cursive;
+    font-size: 14px;
+}
+
+.course .card2,.course .card1 {
+    float: right;
+    direction: rtl;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.course .card1  {
+    float: left;
+    direction: rtl;
+}
+
+.course .card2  {
+    float: right;
+    direction: rtl;
+}
+
+.course .row {
+    margin-bottom: 40px;
+}
+
+.fotter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+
+}
+
+
+.fotter h2 {
+    color: #222529;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.fotter p{
+  color: #657783;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+
+  margin: 0;
+  margin-bottom: 3px;
+}
+
+
+.fotter a:hover {
+    text-decoration: none;
+}

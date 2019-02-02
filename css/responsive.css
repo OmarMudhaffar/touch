@@ -1,0 +1,466 @@
+@media(max-width:992px){
+    .cards .card2 .card {
+        float: unset;
+    }
+    
+    .cards .card1 .card {
+        float: unset;
+    }
+
+
+        nav {
+            background-image: none;
+        }
+    
+        .header {
+            background-image: url('../imgs/md/header.svg');
+            background-size: cover;
+        }
+    
+    
+        .header .heimg img{
+            width: 250px;
+            top: unset;
+        }
+    
+        .header h1 {
+            font-size: 25px;
+        }
+    
+        .header p {
+            font-size: 15px;
+            max-width: 300px;
+        }
+    
+        .header .butt button {
+            width: 80.24px;
+            height: 35.2px;
+            font-size: 15px;
+        }
+
+
+        
+        .cards .card h5{
+           font-size: 20px;
+        }
+    
+        .cards .card p{
+            max-width: 300px;
+            font-size: 13px;
+         }
+    
+ 
+    
+         .acts .card2 {
+         text-align: center;
+         direction: unset;
+         float: unset;
+         justify-content: center;
+         }
+    
+         .acts .but button {
+            width: 80.24px;
+            height: 35.2px;
+            font-size: 15px;
+            margin: 0;
+         }
+    
+         .acts h1 {
+            font-size: 19px;
+            max-width: 310px;
+        }
+    
+        .acts  p {
+            font-size: 14px;
+            max-width: 310px;
+        }
+    
+         .acts {
+          background-image: url('../imgs/phone/acts.svg');
+          background-size: contain;
+          background-position: left;
+         }
+    
+         .acts img{
+        width: 230px !important;
+         }
+    
+         .acts .card1 {
+             float: unset;
+         }
+    
+         .cards  {
+          width: unset !important;
+          background-image: url('../imgs/md/card.svg');
+          background-size: contain;
+          background-repeat: no-repeat;
+         
+         }
+    
+         .cards .card img {
+             width: 250px;
+         }
+    
+         .cards .card1 {
+             margin: 0;
+             padding: 0;
+         }
+     
+         .cards .card2 {
+            margin: 0;
+            padding: 0;
+        }
+    
+    
+        .course h1 {
+            font-size: 19px;
+            max-width: 310px;
+        }
+    
+        .course  p {
+            font-size: 14px;
+            max-width: 310px;
+        }
+        .course .but button {
+            width: 80.24px;
+            height: 35.2px;
+            font-size: 15px;
+            margin: 0;
+         }
+    
+         .course img {
+             width: 280px;
+         }
+    
+         .course .card1 {
+             float: unset;
+         }
+    
+     
+    
+         .fotter h2 {
+            font-size: 19px;
+        }
+    
+        .fotter p {
+            font-size: 14px;
+        }
+    
+        .register {
+            margin: 0;
+        }
+    
+    
+    
+
+}
+
+
+@media(max-width:720px){
+    .cards .card2 .card {
+        float: unset;
+    }
+    
+    .cards .card1 .card {
+        float: unset;
+    }
+
+
+        nav {
+            background-image: none;
+        }
+    
+        .header {
+            background-image: url('../imgs/phone/header.svg');
+            background-size: contain;
+        }
+    
+    
+        .header .heimg img{
+            width: 250px;
+            top: unset;
+        }
+    
+        .header h1 {
+            font-size: 25px;
+        }
+    
+        .header p {
+            font-size: 15px;
+            max-width: 300px;
+        }
+    
+        .header .butt button {
+            width: 80.24px;
+            height: 35.2px;
+            font-size: 15px;
+        }
+        
+        .cards .card h5{
+           font-size: 20px;
+        }
+    
+        .cards .card p{
+            max-width: 300px;
+            font-size: 13px;
+         }
+    
+         .acts .card1 h1 {
+             font-size: 13px;
+             max-width: 350px;
+         }
+    
+         .acts .card1 p {
+             font-size: 10px;
+             max-width: 350px;
+         }
+    
+         .acts .card2 {
+         text-align: center;
+         direction: unset;
+         float: unset;
+         justify-content: center;
+         }
+    
+         .acts .but button {
+            width: 80.24px;
+            height: 35.2px;
+            font-size: 15px;
+            margin: 0;
+         }
+    
+         .acts .card2 h1 {
+            font-size: 15px;
+            max-width: 310px;
+        }
+    
+        .acts .card2 p {
+            font-size: 11px;
+            max-width: 310px;
+        }
+    
+         .acts {
+          background-image: url('../imgs/phone/acts.svg');
+          background-size: contain;
+          background-position: left;
+         }
+    
+         .acts img{
+        width: 150px !important;
+         }
+    
+         .acts .card1 {
+             float: unset;
+         }
+    
+         .cards  {
+          width: unset !important;
+          background-image: url('../imgs/phone/card.svg');
+          background-size: contain;
+          background-repeat: no-repeat;
+         
+         }
+    
+         .cards .card img {
+             width: 250px;
+         }
+    
+         .cards .card1 {
+             margin: 0;
+             padding: 0;
+         }
+     
+         .cards .card2 {
+            margin: 0;
+            padding: 0;
+        }
+    
+    
+        .course h1 {
+            font-size: 15px;
+            max-width: 310px;
+        }
+    
+        .course  p {
+            font-size: 11px;
+            max-width: 310px;
+        }
+        .course .but button {
+            width: 80.24px;
+            height: 35.2px;
+            font-size: 15px;
+            margin: 0;
+         }
+    
+         .course img {
+             width: 250px;
+         }
+    
+         .course .card1 {
+             float: unset;
+         }
+    
+     
+    
+         .fotter h2 {
+            font-size: 15px;
+        }
+    
+        .fotter p {
+            font-size: 12px;
+        }
+    
+        .register {
+            margin: 0;
+        }
+    
+    
+    
+
+}
+
+
+@media(max-width:540px){
+    nav {
+        background-image: none;
+    }
+
+    .header {
+        background-image: url('../imgs/phone/header.svg');
+        background-size: contain;
+    }
+
+    .header .heimg img{
+        width: 200px;
+        top: unset;
+    }
+
+    .header h1 {
+        font-size: 20px;
+    }
+
+    .header p {
+        font-size: 10px;
+        max-width: 300px;
+    }
+
+    .header .butt button {
+        width: 70.24px;
+        height: 25.2px;
+        font-size: 10px;
+    }
+    
+    .cards .card h5{
+       font-size: 15px;
+    }
+
+    .cards .card p{
+        max-width: 250px;
+        font-size: 11px;
+     }
+
+
+     .acts .card2 {
+     text-align: center;
+     direction: unset;
+     float: unset;
+     justify-content: center;
+     }
+
+     .acts .but button {
+        width: 70.24px;
+        height: 25.2px;
+        font-size: 10px;
+        margin: 0;
+     }
+
+     .acts  h1 {
+        font-size: 17px;
+        max-width: 310px;
+    }
+
+    .acts p {
+        font-size: 14px;
+        max-width: 310px;
+    }
+
+     .acts {
+      background-image: url('../imgs/phone/acts.svg');
+      background-size: contain;
+      background-position: left;
+     }
+
+     .acts img{
+    width: 150px !important;
+     }
+
+     .acts .card1 {
+         float: unset;
+     }
+
+     .cards  {
+      width: unset !important;
+      background-image: url('../imgs/phone/card.svg');
+      background-size: contain;
+      background-repeat: no-repeat;
+     
+     }
+
+     .cards .card img {
+         width: 250px;
+     }
+
+     .cards .card1 {
+         margin: 0;
+         padding: 0;
+     }
+ 
+     .cards .card2 {
+        margin: 0;
+        padding: 0;
+    }
+
+
+    .course h1 {
+        font-size: 15px;
+        max-width: 310px;
+    }
+
+    .course  p {
+        font-size: 11px;
+        max-width: 310px;
+    }
+    .course .but button {
+        width: 70.24px;
+        height: 25.2px;
+        font-size: 10px;
+        margin: 0;
+     }
+
+     .course img {
+         width: 250px;
+     }
+
+     .course .card1 {
+         float: unset;
+     }
+
+ 
+
+     .fotter h2 {
+        font-size: 10px;
+    }
+
+    .fotter p {
+        font-size: 8px;
+    }
+
+    .fotter img {
+        width: 40px;
+    }
+
+    .register {
+        margin: 0;
+    }
+
+}
